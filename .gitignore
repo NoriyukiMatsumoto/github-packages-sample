@@ -1,0 +1,9 @@
+
+.gradle/**
+.idea/**
+.idea/.name
+mylibrary/build/**
+app/build/**
+local.properties
+mylibrary/gradle.properties
+app/gradle.properties
